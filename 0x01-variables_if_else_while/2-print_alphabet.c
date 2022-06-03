@@ -1,11 +1,12 @@
 #include <stdio.h>
 /**
- *mian - prints alphabet in lowercase,
- *adds a new line
-*Return: Always 0 (Success)
-*/
+ * main - prints the alphabet in lowercase,
+ * followed by a new line
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
+	
 {
 char ch;
 	for (ch = 'a'; ch <= 'z'; ch++)
