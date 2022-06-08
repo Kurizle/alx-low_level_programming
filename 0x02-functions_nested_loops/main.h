@@ -1,5 +1,5 @@
-#ifndef main.h
-#define main.h
+#ifndef_main_h_
+#define_main_h_
 
 /*
  *main.h file for the project heare files 
