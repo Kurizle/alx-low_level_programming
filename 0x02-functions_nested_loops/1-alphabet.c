@@ -4,7 +4,6 @@
  *main - start of execution
  * Return: zero
  */
-
 void print_alphabet(void)
 {
 	char letter;
