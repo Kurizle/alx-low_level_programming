@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "main.h"
-**/
+/**
  *main - start of execution
  * Return: zero
  */
