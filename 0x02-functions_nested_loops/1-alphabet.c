@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the code students
  *
- * Return: Always 0.
- */	
+ * Return: Always 0
+ */
 void print_alphabet(void)
 {
 	char letter;
@@ -15,4 +15,3 @@ void print_alphabet(void)
 
 	_putchar('\n');
 }
-
