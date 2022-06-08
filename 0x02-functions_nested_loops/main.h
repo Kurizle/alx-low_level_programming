@@ -1,8 +1,8 @@
-#ifndef Main.h
-#define Main.h
+#ifndef main.h
+#define main.h
 
 /*
- *Main.h file for the project heare files 
+ *main.h file for the project heare files 
  *Declerations of all the processes and loop functions
  *used in the 0x02-functions_nested_loops assignment
  */
