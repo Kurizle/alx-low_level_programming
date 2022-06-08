@@ -1,13 +1,11 @@
 #include <stdio.h>
 #include "main.h"
-/**
- *main - start of execution
- *Prints the alphabet in lowercase, followed by a new line
- *Return: zero
- */
 
-int main(void)
-{	
+/**
+ * main - check the code for Holberton School students.
+ *
+ * Return: Always 0.
+ */	
 void print_alphabet(void)
 {
 	char letter;
@@ -17,4 +15,4 @@ void print_alphabet(void)
 
 	_putchar('\n');
 }
-}
+
