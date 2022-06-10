@@ -1,1 +1,1 @@
-0x02-functions_nested_loops exercises done in C using Ubuntu Sandbox
+In this assignment, we are going to be doing nested loops, functions and loarning the use of prototypes.
