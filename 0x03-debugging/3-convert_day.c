@@ -50,7 +50,3 @@ int convert_day(int month, int day)
 	}
 	return (day);
 }
-
-git add .
-git commit -m 'This file, requires you to fix the code in the print_remaining_days() function so that the output works correctly for all dates and all leap years'
-git push
