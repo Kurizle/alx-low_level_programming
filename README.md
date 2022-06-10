@@ -1,1 +1,1 @@
-In this assignment, we are going to be doing nested loops, functions and loarning the use of prototypes.
+Making use of the C programming module, done as part of the Full Stack Software Engineering training with ALx
