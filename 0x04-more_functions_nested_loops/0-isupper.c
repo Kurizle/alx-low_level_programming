@@ -1,15 +1,16 @@
-#include <ctype.h>
 #include "main.h"
-#include <stdio.h>
+
 /**
- * _isupper – is a function that return absolute values
- * @i: the number to be checked
- * Return:  1 or 0
+ * _isupper - checks is a character is uppercase
+ * @c: carrier integer variable
+ * Return: 1 if true, 0 if false
  */
-int _isupper(char i)
+
+int _isupper(int c)
 {
-	if (i >= 'A' && i <= 'Z')
+	if (c >= 65 && c <= 90)
+	{
 		return (1);
+	}
 	return (0);
 }
-
