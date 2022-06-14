@@ -1,10 +1,13 @@
+#include <string.h>
+#include <stdlib.h>
 #include "main.h"
+#include <stdio.h>
 /**
- *Reset_to_98 - takes a pointer to a parameter and updates the value.
- * @n: input integer.
- * Return: no return.
+ * reset_to_98 - Function to return absolute values.
+ * @i: the number to be checked
+ * Return:  of i
  */
-void reset_to_98(int *n)
+void reset_to_98(int *i)
 {
-	*n = 98;
+	*i = 98;
 }
