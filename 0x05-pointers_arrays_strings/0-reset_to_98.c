@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  *Reset_to_98 - takes a pointer to a parameter and updates the value.
  * @n: input integer.
