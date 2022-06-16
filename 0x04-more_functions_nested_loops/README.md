@@ -1,1 +1,1 @@
-Teaches with unstruction, about nested loops in C language
+Teaches with instruction, about nested loops in C language
