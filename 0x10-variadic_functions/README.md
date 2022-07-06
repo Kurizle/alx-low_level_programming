@@ -1,0 +1,1 @@
+Teaches with instruction, about using variadic functions with the va_start, va_arg, and va_end macros, as well as why and how to use the const type qualifier in the C language as part of the low level programming course named, 0x10-variadic_functions.
