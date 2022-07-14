@@ -2,19 +2,22 @@
 #define _LISTS_
 
 #include <stdio.h>
-#include <stdlib.h>
+#include <stddef.h>
 #include <string.h>
+#include <stdlib.h>
 
 /**
  * struct list_s - singly linked list
- * @str: string - (malloc'ed string)
+ * @str: string - (malloc'd string)
  * @len: length of the string
  * @next: points to the next node
  *
  * Description: singly linked list node structure
  * for Holberton project
  */
+
 typedef struct list_s
+
 {
 	char *str;
 	unsigned int len;
