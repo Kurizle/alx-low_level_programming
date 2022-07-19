@@ -1,0 +1,1 @@
+Teaches with instruction, about using singly linked lists in C while learning when and why to use linked lists versus arrays in the C language as part of the low level programming course named, 0x13-more_singly_linked_lists.
