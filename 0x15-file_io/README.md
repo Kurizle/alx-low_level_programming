@@ -1,0 +1,1 @@
+Teaches with instruction, about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in the C language as part of the low level programming course named, 0x15-file_io.
